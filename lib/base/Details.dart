@@ -1,8 +1,15 @@
 class AppStrings{
 
   // Basic Details
+  static const fname = "ROHIT";
+  static const lname = "SAINIK";
   static const name = "ROHIT SAINIK";
-  static const about = "Hi, I have completed my Bachelor's degree in Computer Science, I am Developing Flutter Applications since 2018, have hands-on experience in technology. Along with it, I am a freelance graphic designer with working skills in Adobe Photoshop, Illustrator, Coral Draw, and Vegas pro. Besides all, I Love to play badminton and chess good for my mental and physical health. Alongside I am also learning data-driven technologies like Python, machine learning, Blockchain, and data science.";
+  static const email = "rsainik80@gmail.com";
+  static const dob = "21 oct 1998";
+  static const from = "India";
+
+  static const about = "I am Rohit Sainik, I have completed my Bachelor's degree in Computer Science, I am Developing Flutter Applications since 2018, have hands-on experience in technology. Along with it, I am a freelance graphic designer with working skills in Adobe Photoshop, Illustrator, Coral Draw, and Vegas pro. Besides all, I Love to play badminton and chess good for my mental and physical health. Alongside I am also learning data-driven technologies like Python, machine learning, Blockchain, and data science.";
+
   static const animatedTextList = [
     "FLUTTER DEVELOPER",
     "GRAPHIC DESIGNER",
@@ -24,6 +31,9 @@ class AppStrings{
   static const instagram = "https://www.instagram.com/rohit_sainik/";
   static const linkedIn = "https://www.linkedin.com/in/rohitsainik/";
   static const stackOverFlow = "https://stackoverflow.com/users/10295395/rohit-sainik";
+
+  //Resume]
+  static const resume = "https://stackoverflow.com/users/10295395/rohit-sainik";
 
 
 
